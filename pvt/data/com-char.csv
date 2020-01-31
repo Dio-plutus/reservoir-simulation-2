@@ -1,0 +1,26 @@
+﻿Components,Chemical,SG,MW
+Hydrogen Sulfide,H2S,0.8006,34.08
+Carbon dioxide,CO2,0.8172,44.01
+Nitrogen,N2,0.8086,28.013
+Methane,C1,0.2997,16.043
+Ethane,C2,0.35584,30.07
+Propane,C3,0.50648,44.097
+Iso-Butane,IC4,0.56231,58.123
+N-Butane,NC4,0.58343,58.123
+Iso-Pentane,IC5,0.62408,72.15
+N-Pentane,NC5,0.63049,72.15
+Hexanes,C6,0.663,84
+Heptanes,C7,0.6875,96
+Octanes,C8,0.7063,107
+Nonanes,C9,0.7212,121
+Decanes,C10,0.7335,134
+Undecanes,C11,0.7442,147
+Dodecanes,C12,0.752,161
+Tridecanes,C13,0.76,175
+Tetradecanes,C14,0.7663,190
+Pentadecanes,C15,0.7723,206
+Hexadecanes,C16,0.7758,222
+Heptadecanes,C17,0.7803,237
+Octadecanes,C18,0.7853,251
+Nonadecanes,C19,0.7893,263
+Eicosanes Plus,C20+,,
