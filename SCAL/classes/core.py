@@ -13,7 +13,7 @@ class Core:
        self.name = name
        self.depth = depth
        self.porosity = porosity
-       self.length = length
+       self.h = length
        self.K_k = K_k
        self.K_e_Swi = K_e_Swi
        self.Sw = Sw

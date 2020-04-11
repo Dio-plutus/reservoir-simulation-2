@@ -1,0 +1,9 @@
+Sample Name,"Sample depth, m ",Porosity,"Length, ft","Klinkenberg Permeability, mD","Effective Permeability to Oil at Swi, mD",Sw,Krw,Kro
+HST-61H,2759.49,21.1,0.17808399,682,323,0.214,0,1
+,,,,,,0.456,0.025,0.179
+,,,,,,0.534,0.037,0.11
+,,,,,,0.571,0.046,0.074
+,,,,,,0.612,0.06,0.054
+,,,,,,0.639,0.07,0.033
+,,,,,,0.666,0.08,0.016
+,,,,,,0.754,0.244,0
